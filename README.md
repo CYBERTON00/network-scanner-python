@@ -12,7 +12,7 @@ A lightweight network scanning tool that discovers devices connected to a local 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/itsboy42068/network-scanner.git
+git clone https://github.com/CYBERTON00/password-strength-checker.git
 cd network-scanner
 pip install -r requirements.txt
 ```
